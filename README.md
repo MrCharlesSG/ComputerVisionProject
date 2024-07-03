@@ -1,6 +1,4 @@
-*Carlos Serrano Gutiérrez*
-
-[Algebra University College, June, 2024]{.smallcaps}
+This text is a direct conversion from docx format to pdf. For a better reading, use the Project.pdf or Project.docx
 
 # Content {#content .unnumbered}
 
